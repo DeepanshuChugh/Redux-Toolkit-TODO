@@ -35,7 +35,7 @@ In the project, we will be creating a Complete Todo Application with all feature
 - [React Redux Toolkit](https://redux-toolkit.js.org/)
 - [React icons](https://react-icons.netlify.com/)
 - [React Hot Toast](https://react-hot-toast.com/)
-- [SCSS]
+- [SCSS](https://sass-lang.com/)
 - More...
 
 ## Requirements
